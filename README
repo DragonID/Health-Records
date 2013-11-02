@@ -1,33 +1,39 @@
-Health Records
-==============
+#"Records for Life" -- Improved Child Health Record and Casing
 
-DragonID, LLC Announces Open Source Availability of Bill and Melinda Gates Foundation Health Record Entry
+http://dragonid.com
 
-By David Vodolazkiy
-November 2, 2013
+[@drgnid](https://twitter.com/drgnid).
 
-Shaker Heights, OH – DragonID, LLC, the award-winning, Ohio-based healthcare innovation and design firm, announced today the open source release of their submission to the Bill and Melinda Gates Foundation’s “Records for Life” contest. 
-The release, under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License, includes a digital copy of the record design, schematics for 3D-printing the casing prototype, and a narrative detailing production and deployment possibilities.
+The purpose of the DragonID Improved Child Health Record and Casing is 
+to meet a need identified by the Bill & Melinda Gates Foundation: the great disparity 
+in quality, durability, and consistency in current health record modalities around the world. 
+Even in America, health records vary from hospital to hospital, and in much of the world they 
+remain unintuitive, easy to misread, and even easier to accidentally damage and destroy. 
+These design flaws are a major contributor to the international undervaccination of infants 
+and young children, among other similar hindrances to the timely and proper administration 
+of healthcare.
 
-The company believes that making their entry available to the public will encourage continued development and improvement from interested developers and designers. 
-DragonID, LLC also hope to raise awareness for the issue that the Bill and Melinda Gates Foundation’s “Records for Life” contest was launched to solve: a lack of high quality, high durability, and easily accessible child health and immunization records in developing nations.
+The DragonID team believes that our design solves all of these flaws. 
+Our design strategy was focused on two areas: durability and ease of use. By utilizing an 
+extremely portable case and extra-durable paper, the chance of accidental damage is greatly 
+diminished. By hard-coding the Unique Identification Number to the paper itself, 
+digitization and replacement of information becomes trivial, and by using an intuitive and simple 
+layout, the chance of human error in terms of reading or writing the document is greatly 
+diminished.
 
-“Our company vision is to improve the lives and medical outcomes for patients across the world,” says Eugene Malinskiy, CEO of DragonID, LLC. “This design takes big steps toward that direction, but there’s always more that can be done with fresh insight.”
+That said, there is only so much one team can account for with limited 
+resources and a tight release deadline. For this reason, we are releasing our work to the 
+public under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-About DragonID, LLC
-DragonID, LLC, is an award-winning Cleveland-based healthcare innovation and design firm with a big vision. Located in the historic Shaker Heights neighborhood, we focus on the medical device and surgery market, where our innovative solutions enhance the capabilities of current products, while maintaining cost control. Bringing together a diverse team of biomedical, signal, mechanical and aerospace engineers, as well as world class doctors, our goal is to improve outcomes for orthopedic and cardiac surgeries.
+We invite you to do with it as you like: 3d-print the case, break it, 
+report your results. Take the document layout, twist it, reshape it, make it better, publish your 
+findings. Everything you need, all the work we've done, is at your disposal.
 
-http://www.dragonid.com
+##Files:
 
-About the “Records for Life” Contest
-The Bill & Melinda Gates Foundation is seeking help to redesign the look and feel of child health records. A redesigned health record will not only increase accuracy but also make medical records easier to interpret and use. 
-http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities/Records-for-Life-RFP
+  - Narrative document, explaining the key design points and the lifecycle of the health record.
+  - Design layout, or what the record actually looks like. 8.5x22 inches.
+  - Image and .STEP and .STL (Solidworks) file of the casing.
+  - License information.
 
-Contact:
-To learn more about this project or DragonID, LLC, please contact
-
-DragonID, LLC
-3558 Lee Rd
-Shaker Heights, OH 44120 
-440-223-6294 
-info@dragonid.com 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
